@@ -75,6 +75,5 @@
 
 **Чтобы добавить видео**, используем команду:
  
-![video](https://user-images.githubusercontent.com/59058166/181561082-b9ba24be-2240-471b-ac9f-86b451ac5337.mp4)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-2nR_dvcGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![video](https://user-images.githubusercontent.com/59058166/181731581-6106d605-d7c2-4f5f-88e8-cc0ce49ab5b4.MP4)
+ 
